@@ -1,4 +1,4 @@
-Welcome to Invoice Generator
+Invoice Generator App
 1. Splash Screen :
 Upon opening the app, users are greeted with a visually engaging splash screen that sets the tone for a seamless and efficient invoicing experience.
 
